@@ -1,4 +1,4 @@
-## Voice Memo App Using HTML5, Media Recorder and getUserMedia APIs, result of the [class](https://www.youtube.com/watch?v=Pd_LS7p_BX4&t=166s) given by [Erick Wendel](https://github.com/ErickWendel)
+## Voice Memo App Using HTML5, Media Recorder and getUserMedia APIs, result of the [class](https://youtu.be/Pd_LS7p_BX4) given by [Erick Wendel](https://github.com/ErickWendel)
 
 ## Running
 
